@@ -4,7 +4,7 @@
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+is+0xm7d+👋;I'm+from+Morocco+🇲🇦;I'm+a+Penetration+Tester+💻;Welcome+To+My+Account!+ツ)
 
-<img width="25%" align="right" alt="Anime GIF" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
+<img width="30%" align="right" alt="Anime GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG51dHVucTU2bHdyODhxdWQ3Z3MydTRkM2dleGtuOGRnaGoyb3prNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 🔭 I’m currently working on expanding my programming skills, especially in **C++, and C** , python, Javascript.
 - 🌱 I’m continuously learning and improving my coding abilities.
