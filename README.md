@@ -36,16 +36,16 @@
 
 ### Technologies & Frameworks
 
-![godot](https://img.shields.io/badge/godot-black?style=flat-square&logo=godot-engine)
+![React](https://img.shields.io/badge/react-black?style=flat-square&logo=React)
+![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![opengl](https://img.shields.io/badge/opengl-black?style=flat-square&logo=opengl)
-![sdl](https://img.shields.io/badge/sdl-black?style=flat-square&logo=sdl)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
 ![make](https://img.shields.io/badge/make-black?style=flat-square&logo=gnu-make)
 ![llvm](https://img.shields.io/badge/llvm-black?style=flat-square&logo=llvm)
 ![gcc](https://img.shields.io/badge/gcc-black?style=flat-square&logo=gcc)
 ![gdb](https://img.shields.io/badge/gdb-black?style=flat-square&logo=gdb)
 ![valgrind](https://img.shields.io/badge/valgrind-black?style=flat-square&logo=valgrind)
-![vulkan](https://img.shields.io/badge/vulkan-black?style=flat-square&logo=vulkan)
 
 ### DevOps & Tools
 
