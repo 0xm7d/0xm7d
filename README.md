@@ -80,3 +80,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SegMind25&theme=dark&hide_border=true&layout=compact)
 
 </div>
+
+<p >
+<div href="#-my-github-stats--"><img width="80%" src="https://gstats.buddies-dev.de/api/top-langs?username=0xm7d&layout=compact&theme=dark&title_color=FFC300&text_color=CDD6F4&bg_color=090D13&border_radius=5&langs_count=8&card_width=600" /></div>
+</p>
