@@ -14,10 +14,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Millions%20on%20firewalls%20and%20encryption%20mean%20nothing%20if%20humans%20are%20the%20weakest%20link.&author=Kevin%20Mitnick)
 
 ### 🎓 My Certificates
-[![RHCSA ]()
-[![CCNA]()
-[![SECURITY+]()
-[![EJBTV1](https://img.shields.io/badge/EJBTV1-blue?logo=EJBTV1&logoColor=white)]
+![rhcsa ](https://img.shields.io/badge/rhcsa-blue?logo=rhcsa&logoColor=white)
+![ccna](https://img.shields.io/badge/ccna-blue?logo=ccna&logoColor=white)
+![security+](https://img.shields.io/badge/security+-blue?logo=security+&logoColor=white)
+![ejbtv1](https://img.shields.io/badge/EJBTV1-blue?logo=EJBTV1&logoColor=white)
 
 ---
 
@@ -39,7 +39,6 @@
 ![godot](https://img.shields.io/badge/godot-black?style=flat-square&logo=godot-engine)
 ![opengl](https://img.shields.io/badge/opengl-black?style=flat-square&logo=opengl)
 ![sdl](https://img.shields.io/badge/sdl-black?style=flat-square&logo=sdl)
-![qt](https://img.shields.io/badge/qt-black?style=flat-square&logo=qt)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
 ![make](https://img.shields.io/badge/make-black?style=flat-square&logo=gnu-make)
 ![llvm](https://img.shields.io/badge/llvm-black?style=flat-square&logo=llvm)
@@ -65,7 +64,6 @@
 ![makefile](https://img.shields.io/badge/makefile-black?style=flat-square&logo=gnu-make)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
 ![ninja](https://img.shields.io/badge/ninja-black?style=flat-square&logo=ninja)
-
 ![vcpkg](https://img.shields.io/badge/vcpkg-black?style=flat-square&logo=microsoft)
 ![mingw](https://img.shields.io/badge/mingw-black?style=flat-square&logo=gnu)
 
