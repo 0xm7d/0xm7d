@@ -6,7 +6,7 @@
 
 <img width="25%" align="right" alt="Anime GIF" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
 
-- 🔭 I’m currently working on expanding my programming skills, especially in **C++, and C** , Javascript.
+- 🔭 I’m currently working on expanding my programming skills, especially in **C++, and C** , python, Javascript.
 - 🌱 I’m continuously learning and improving my coding abilities.
 - 📫 How to reach me? [Email me](mailto:simobriti12@gmail.com)
 
