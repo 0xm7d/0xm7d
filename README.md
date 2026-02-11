@@ -17,7 +17,7 @@
 ![rhcsa ](https://img.shields.io/badge/rhcsa-blue?logo=rhcsa&logoColor=white)
 ![ccna](https://img.shields.io/badge/ccna-blue?logo=ccna&logoColor=white)
 ![security+](https://img.shields.io/badge/security+-blue?logo=security+&logoColor=white)
-![ejbtv1](https://img.shields.io/badge/EJBTV1-blue?logo=EJBTV1&logoColor=white)
+![ejbtv1](https://img.shields.io/badge/ejbtv1-blue?logo=EJBTV1&logoColor=white)
 
 ---
 
