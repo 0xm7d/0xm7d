@@ -62,7 +62,6 @@
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![makefile](https://img.shields.io/badge/makefile-black?style=flat-square&logo=gnu-make)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
-![vcpkg](https://img.shields.io/badge/vcpkg-black?style=flat-square&logo=microsoft)
 ![mingw](https://img.shields.io/badge/mingw-black?style=flat-square&logo=gnu)
 
 ---
