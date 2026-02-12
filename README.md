@@ -63,7 +63,6 @@
 ![jenkins](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins)
 ![makefile](https://img.shields.io/badge/makefile-black?style=flat-square&logo=gnu-make)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
-![ninja](https://img.shields.io/badge/ninja-black?style=flat-square&logo=ninja)
 ![vcpkg](https://img.shields.io/badge/vcpkg-black?style=flat-square&logo=microsoft)
 ![mingw](https://img.shields.io/badge/mingw-black?style=flat-square&logo=gnu)
 
