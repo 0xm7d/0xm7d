@@ -60,7 +60,6 @@
 ![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
 ![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
-![jenkins](https://img.shields.io/badge/jenkins-black?style=flat-square&logo=jenkins)
 ![makefile](https://img.shields.io/badge/makefile-black?style=flat-square&logo=gnu-make)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
 ![vcpkg](https://img.shields.io/badge/vcpkg-black?style=flat-square&logo=microsoft)
